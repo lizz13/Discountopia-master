@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DiscounTopia</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+
+
+    <string-array name="country_array">
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>USA</item>
+        <item>France</item>
+    </string-array>
+
+
+</resources>

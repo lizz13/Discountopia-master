@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-d53d6dcd92d0bf6771d4bc81057545258cbcbf29.jar" />
+    </item>
+    <item
+        jar="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\classes-50e8c12e4044a263ab35c4c22de44555afc4e766.jar" />
+    </item>
+    <item
+        jar="C:\Users\Safkat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-acc0750c86821a51b580e2b35e0b5219def4df2e.jar" />
+    </item>
+    <item
+        jar="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\classes-14acfffebcb24e3680a53e8e935c47c9cf4673b8.jar" />
+    </item>
+    <item
+        jar="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\classes-7013a3ec58379fb72df943b76d21724b7ee40448.jar" />
+    </item>
+    <item
+        jar="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Liza_Android\Tahseen\Discountopia-master\Discountopia-master\app\build\intermediates\pre-dexed\debug\classes-3cfe9bbaf8dd0c1713a66eaa72296b7ad6cb3c94.jar" />
+    </item>
+
+</items>
